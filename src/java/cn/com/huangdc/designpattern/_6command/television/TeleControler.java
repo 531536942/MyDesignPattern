@@ -1,4 +1,4 @@
-package cn.com.huangdc.designpattern._6command.code;
+package cn.com.huangdc.designpattern._6command.television;
 
 import java.util.ArrayList;
 import java.util.List;

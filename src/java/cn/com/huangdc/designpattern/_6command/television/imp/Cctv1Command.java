@@ -1,7 +1,7 @@
-package cn.com.huangdc.designpattern._6command.code.imp;
+package cn.com.huangdc.designpattern._6command.television.imp;
 
-import cn.com.huangdc.designpattern._6command.code.Command;
-import cn.com.huangdc.designpattern._6command.code.Television;
+import cn.com.huangdc.designpattern._6command.television.Command;
+import cn.com.huangdc.designpattern._6command.television.Television;
 
 public class Cctv1Command extends Command {
 

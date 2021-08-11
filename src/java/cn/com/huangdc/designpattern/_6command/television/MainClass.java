@@ -1,8 +1,8 @@
-package cn.com.huangdc.designpattern._6command.code;
+package cn.com.huangdc.designpattern._6command.television;
 
-import cn.com.huangdc.designpattern._6command.code.imp.Cctv1Command;
-import cn.com.huangdc.designpattern._6command.code.imp.Cctv2Command;
-import cn.com.huangdc.designpattern._6command.code.imp.Cctv3Command;
+import cn.com.huangdc.designpattern._6command.television.imp.Cctv1Command;
+import cn.com.huangdc.designpattern._6command.television.imp.Cctv2Command;
+import cn.com.huangdc.designpattern._6command.television.imp.Cctv3Command;
 
 public class MainClass {
     public static void main(String[] args) {
